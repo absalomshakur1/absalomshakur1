@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Absalom Shakur
-- 👀 I’m interested in IT and Cybersecurity
-- 🌱 I’m currently learning Python
+- 👀 I am passionate about IT and Cybersecurity
+- 🌱 I’m currently learning Python and have entered the
+- Bachelors in cycbersecurity at Stayer 
 - 💞️ I’m looking to collaborate on HTML projects
 - 📫 How to reach me at absalomshakur@gmail.com
 - 😄 Pronouns:He/Him
