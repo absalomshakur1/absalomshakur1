@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Absalom Shakur
-- 👀 I am passionate about IT and Cybersecurity
-- 🌱 I’m currently 
+- 👀 I am passionate about IT and Cybersecurity. I'm learnt in Wireshark, Burpsuite, Nmap and Metasploit
+- 🌱 I’m currently applying for work as a SOC Analyst.
 - Bachelors of science Information technology/cycbersecurity at Strayer university
-- 💞️ I’m looking to collaborate on HTML projects and bug bounty contest
-- 📫 How to reach me at absalomshakur@gmail.com
+- 💞️ I’m looking to collaborate on HTML projects and bug bounty contest and get hired into my first cybersecurity roll. 
+- 📫 How to reach me? try emailing me @ absalomshakur@gmail.com or @ topknotchhacker@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I tought myself HTML, CSS, BOOTSTRAP. I taught
 
